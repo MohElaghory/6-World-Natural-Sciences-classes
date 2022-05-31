@@ -1,7 +1,6 @@
 # 6 World Natural Sciences classes
 
-# Image Classification Using CNN
-
+### Image Classification Using CNN
 ________
 
 we'll build a CNN using Keras to use it classifying thousands of pictures in six different categories
